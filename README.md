@@ -1,7 +1,7 @@
 ### Hi there, I'm Bence 👋
 
 🎓 I'm currently studying Computer Engineering.  
-☁️ I'm specializing in Cloud Services Technologies and IT Security.  
+☁️ I'm specializing in Cloud Service Technologies and IT Security.  
 💻 I'm passionate about software development, especially with **C#** and the **.NET ecosystem**.  
 
 ---
